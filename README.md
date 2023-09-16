@@ -22,3 +22,13 @@ Image 2: Performance Dashboard
 
 
 <img width="599" alt="image" src="https://github.com/Adebisiokegbemi/Hospital-Transaction-Dashboard/assets/91023196/f8011e32-1eae-4e0b-a0a7-e434a0a3dd02">
+
+
+
+
+
+
+
+
+File: Hospital Transaction PowerBI file
+
